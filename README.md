@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antoni Sokolowski!
+# 👋 Hi, I'm Antoni Sokołowski!
 
 🎓 **Student** passionate about Quantitative Finance Analysis  
 💡 Eager to explore how data and code drive insights in finance
