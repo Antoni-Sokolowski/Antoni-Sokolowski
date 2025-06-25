@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Antoni Sokolowski!
 
-<!--
-**Antoni-Sokolowski/Antoni-Sokolowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** passionate about Quantitative Finance Analysis  
+💡 Eager to explore how data and code drive insights in finance
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Python**: Data analysis, scripting, and automation
+- **SQL**: Data querying and management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Interests
+- Quantitative finance
+- Data analytics and modeling
+- Financial markets and trading algorithms
+
+## 🚀 Goals
+- Build and share projects in quantitative finance
+- Learn advanced techniques in Python and SQL for finance
+- Connect with like-minded learners and professionals
+
+---
+
+*I’m just getting started—stay tuned for upcoming projects!*
