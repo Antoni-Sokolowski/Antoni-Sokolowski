@@ -12,11 +12,3 @@
 - Data analytics and modeling
 - Financial markets and trading algorithms
 
-## 🚀 Goals
-- Build and share projects in quantitative finance
-- Learn advanced techniques in Python and SQL for finance
-- Connect with like-minded learners and professionals
-
----
-
-*I’m just getting started—stay tuned for upcoming projects!*
